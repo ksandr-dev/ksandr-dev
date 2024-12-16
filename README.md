@@ -22,7 +22,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&style=for-the-badge)
 
 ### Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=adamalston&row=1&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ksandr-dev&row=1&column=6&margin-w=15&margin-h=15" />
 <div display="flex">
   <img height="124" src="https://github-readme-stats.vercel.app/api?username=ksandr-dev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=fff" />
 </div>
